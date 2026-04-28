@@ -1,0 +1,28 @@
+# Virtual environment
+svc-face-env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dataset (optional - only if too large)
+# face-dataset/
+
+# Cache files
+.pytest_cache/
+*.egg-info/
+dist/
+build/
