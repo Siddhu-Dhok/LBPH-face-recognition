@@ -235,7 +235,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- **Your Name** - Initial work - [GitHub Profile](https://github.com/YOUR_USERNAME)
+- **Siddhesh Dhok** - Initial work - [[GitHub Profile](https://github.com/YOUR_USERNAME)](https://github.com/Siddhu-Dhok)
 
 ## Acknowledgments
 
